@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/squadify/static/css/main.cf3a76ac.css",
+    "main.js": "/squadify/static/js/main.2b604de4.js",
+    "static/js/787.28cb0dcd.chunk.js": "/squadify/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/squadify/static/media/logo.05e10230c81f622c02e5.svg",
+    "index.html": "/squadify/index.html",
+    "main.cf3a76ac.css.map": "/squadify/static/css/main.cf3a76ac.css.map",
+    "main.2b604de4.js.map": "/squadify/static/js/main.2b604de4.js.map",
+    "787.28cb0dcd.chunk.js.map": "/squadify/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf3a76ac.css",
+    "static/js/main.2b604de4.js"
+  ]
+}
