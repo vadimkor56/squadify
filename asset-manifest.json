@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/squadify/static/css/main.cf3a76ac.css",
-    "main.js": "/squadify/static/js/main.e9827aca.js",
+    "main.css": "/squadify/static/css/main.322da9be.css",
+    "main.js": "/squadify/static/js/main.09a789ab.js",
     "static/js/787.da2067a5.chunk.js": "/squadify/static/js/787.da2067a5.chunk.js",
-    "static/media/logo.svg": "/squadify/static/media/logo.05e10230c81f622c02e5.svg",
     "index.html": "/squadify/index.html",
-    "main.cf3a76ac.css.map": "/squadify/static/css/main.cf3a76ac.css.map",
-    "main.e9827aca.js.map": "/squadify/static/js/main.e9827aca.js.map",
+    "main.322da9be.css.map": "/squadify/static/css/main.322da9be.css.map",
+    "main.09a789ab.js.map": "/squadify/static/js/main.09a789ab.js.map",
     "787.da2067a5.chunk.js.map": "/squadify/static/js/787.da2067a5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf3a76ac.css",
-    "static/js/main.e9827aca.js"
+    "static/css/main.322da9be.css",
+    "static/js/main.09a789ab.js"
   ]
 }
