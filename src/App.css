@@ -1,12 +1,28 @@
 .App {
+    position: relative;
     height: 100vh;
     width: 100vw;
     background-color: #20182a;
-    background-image: url('../public/logo.svg');
-    background-repeat: repeat;
+    /* background-image: url('../public/logo.svg'); */
+    /* background-repeat: repeat; */
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.App-background {
+    position: absolute;
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+}
+
+.App-logo-row {
+    display: flex;
+}
+
+.App-logo-cell {
+    width: 12.5%;
 }
 
 .App-logo {

@@ -5,6 +5,7 @@ export const SquadifyTextIcon = ({ width }) => {
             height="auto"
             viewBox="0 0 1314 388"
             fill="none"
+            style={{ zIndex: 1 }}
             xmlns="http://www.w3.org/2000/svg"
         >
             <mask
